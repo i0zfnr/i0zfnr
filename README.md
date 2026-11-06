@@ -1,63 +1,20 @@
-<div align="center">
+<img src="./assets/profile-header.gif" alt="Terminal introduction: Ipan, currently building LabReserve with PHP, Laravel, React and MySQL" width="100%" />
 
-# IPAN
+## Hey, I'm ipan.
 
-**Full-stack development · Practical systems · Thoughtful interfaces**
+I build web apps and enjoy figuring out how things fit together, from the database to the interface. Most of my recent work has been around PHP and Laravel, with React and TypeScript for the frontend.
 
-I build web applications that bring structure to real-world workflows—from the data model to the details on screen.
+Right now I'm working on [LabReserve](https://github.com/i0zfnr/labreserve), a lab booking system with reservations and admin approvals. It's still a work in progress.
 
-[Projects](https://github.com/i0zfnr?tab=repositories) &nbsp; · &nbsp; [LabReserve](https://github.com/i0zfnr/labreserve) &nbsp; · &nbsp; [GitHub](https://github.com/i0zfnr)
+### Some projects
 
-</div>
+- [**LabReserve**](https://github.com/i0zfnr/labreserve) — computer lab booking and management
+- [**AttendX**](https://github.com/i0zfnr/AttendX) — PHP project
+- [**AstraAi**](https://github.com/i0zfnr/AstraAi) — TypeScript project
+- [**PoliSpace**](https://github.com/i0zfnr/PoliSpace) — web project
 
----
+### Things I work with
 
-### About
+`PHP`  `Laravel`  `JavaScript`  `TypeScript`  `React`  `MySQL`  `Git`
 
-I'm a developer focused on building useful, maintainable web applications. My work spans backend logic, relational data, and frontend interfaces, with an interest in making complex workflows feel straightforward.
-
-I work with **PHP, Laravel, TypeScript, React, and MySQL**. I'm currently developing LabReserve, a hybrid booking system for computer laboratories, while continuing to explore better ways to design and ship software.
-
-### Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/i0zfnr/labreserve">LabReserve</a></h3>
-<p>A computer lab booking and management system in development, combining reservation workflows, administrator approval, and availability tracking.</p>
-<sub>Laravel · React · TypeScript · MySQL</sub>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/i0zfnr/AttendX">AttendX</a></h3>
-<p>A featured PHP project from my development portfolio.</p>
-<sub>PHP · Web application</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/i0zfnr/AstraAi">AstraAi</a></h3>
-<p>A featured TypeScript project exploring modern web development.</p>
-<sub>TypeScript · Web development</sub>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/i0zfnr/PoliSpace">PoliSpace</a></h3>
-<p>A featured web project from my GitHub portfolio.</p>
-<sub>HTML · Web development</sub>
-</td>
-</tr>
-</table>
-
-### Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-161B22?style=for-the-badge&logo=php&logoColor=8993BE" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-161B22?style=for-the-badge&logo=laravel&logoColor=FF6B6B" alt="Laravel" />
-  <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=65A9F3" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=75D8F0" alt="React" />
-  <img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=8CC4E4" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F58A6F" alt="Git" />
-</p>
-
----
-
-<div align="center"><sub>Build with purpose. Keep learning. Ship thoughtfully.</sub></div>
+[See all repositories →](https://github.com/i0zfnr?tab=repositories)
